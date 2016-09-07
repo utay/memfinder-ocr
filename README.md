@@ -1,5 +1,5 @@
-# memfinder-ocr
-OCR for internet meme images
+# MemFinder OCR
+OCR for internet meme images. http://www.memfinder.io/
 
 ## Usage
 
