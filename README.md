@@ -25,3 +25,9 @@ Run the OCR:
 make
 ./ocr <image>
 ```
+
+## References
+
+Very useful pdfs to understand text detection and text recognition in an image:
+* http://www.mathematik.uni-marburg.de/~ewerth/papers/ISPA2003.pdf (text detection)
+* https://arxiv.org/pdf/1211.4385.pdf (text recognition - artifical neural network)
